@@ -1,0 +1,18 @@
+{
+    "name": "pdf-from-post",
+    "description": "A WordPress plugin for rendering PDF files from post meta.",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Zachary Watkins",
+            "email": "watkinza@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "setasign/fpdf": "^1.8"
+    },
+    "require-dev": {
+        "wp-coding-standards/wpcs": "^1.0"
+    }
+}
